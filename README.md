@@ -1,15 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&customColorList=12,20,24,30&text=TEJAS%20C&fontSize=54&fontColor=E6EDF3&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20DSA%20%7C%20Building%20Strong%20Foundations&descAlignY=58&descSize=18&animation=twinkling" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=0,2,3,5,10,17,24,29&text=TEJAS%20C&fontSize=56&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20NLP%20%7C%20DSA%20%7C%20Project-Driven%20Learning&descAlignY=58&descSize=18&animation=twinkling" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=980&lines=Hi%2C+I+am+Tejas+C;I+am+interested+in+AI+and+ML;I+love+solving+problems+and+building+projects;Python+%7C+Machine+Learning+%7C+NLP+%7C+DSA;Learning+deeply%2C+building+consistently" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2100&pause=700&color=FF5F9E&center=true&vCenter=true&width=980&lines=Hi%2C+I+am+Tejas+C;I+am+interested+in+AI+and+ML;I+love+solving+problems+and+building+projects;Python+%7C+Machine+Learning+%7C+NLP+%7C+DSA;Learning+deeply%2C+building+consistently" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Tejas-c-0?style=flat-square&logo=github&label=Followers&color=1f6feb&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Tejas-c-0?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Stars&color=DAA520&labelColor=0d1117" alt="Stars" />
-<img src="https://komarev.com/ghpvc/?username=Tejas-c-0&style=flat-square&color=2ea043&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Role-AI%2FML%20Engineering%20Track-A371F7?style=flat-square&labelColor=0d1117" alt="Role" />
+<img src="https://img.shields.io/github/followers/Tejas-c-0?style=for-the-badge&logo=github&label=Followers&color=ff4d6d&labelColor=000000" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Tejas-c-0?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=f4c430&labelColor=000000" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Tejas-c-0&style=for-the-badge&color=00c2ff&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Role-AI%2FML%20Engineering%20Track-b026ff?style=for-the-badge&labelColor=000000" alt="Role" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=ff9f1c" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=openai&logoColor=ff66c4" alt="NLP" />
+<img src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=codeforces&logoColor=38bdf8" alt="DSA" />
+<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=github&logoColor=7ee787" alt="Projects" />
 
 </div>
 
@@ -38,6 +46,10 @@ learning_style: Project-driven, step-by-step, foundation-first
 ## Mission
 
 I am building toward an AI/ML engineering career by strengthening the layers that matter most: problem solving, machine learning fundamentals, project execution, SQL, and consistent practice. I like learning in a practical way, where each concept becomes a project, each project becomes experience, and each bug becomes part of the training.
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=gradient&customColorList=2,5,11,17,24&section=header&text=AI%20%7C%20ML%20%7C%20NLP%20%7C%20DSA%20%7C%20PROJECTS&fontSize=26&fontColor=ffffff&animation=fadeIn" alt="Section Banner" />
+</div>
 
 ---
 
@@ -98,6 +110,11 @@ I am building toward an AI/ML engineering career by strengthening the layers tha
 <img src="https://img.shields.io/badge/EDA-161B22?style=for-the-badge&logo=jupyter&logoColor=F97316" alt="EDA" />
 <img src="https://img.shields.io/badge/Preprocessing-161B22?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8" alt="Preprocessing" />
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tejas-c-0&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tejas-c-0&theme=github_dark" alt="Most Commit Language" />
+
 </div>
 
 ---
@@ -134,6 +151,10 @@ Deployment Layer
 | Student Performance Prediction System | Prediction Workflow | Academic performance analysis using ML |
 | Customer Churn Prediction System | Business ML | Retention-focused prediction and classification logic |
 | NLP Emotion Detection Project | Classical NLP | Text preprocessing, BoW, TF-IDF, and ML-based text classification |
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&customColorList=3,6,14,20,24&text=Featured%20Machine%20Learning%20Projects&fontSize=24&fontColor=ffffff" alt="Projects Banner" />
+</div>
 
 ---
 
@@ -186,16 +207,20 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejas-c-0&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=F78166&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-c-0&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tejas-c-0&show_icons=true&theme=radical&hide_border=true&title_color=ff66c4&icon_color=00e5ff&text_color=f8fafc&bg_color=000000&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-c-0&layout=compact&theme=radical&hide_border=true&title_color=ffd166&text_color=f8fafc&bg_color=000000" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Tejas-c-0&theme=transparent&hide_border=true&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Tejas-c-0&theme=radical&hide_border=true&background=000000&ring=ff66c4&fire=ffd166&currStreakLabel=00e5ff" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-c-0&bg_color=0d1117&color=58A6FF&line=F78166&point=C9D1D9&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-c-0&bg_color=000000&color=ff66c4&line=00e5ff&point=ffd166&area=true&hide_border=true" alt="Activity Graph" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejas-c-0&theme=github_dark" alt="Profile Summary" />
 
 </div>
 
