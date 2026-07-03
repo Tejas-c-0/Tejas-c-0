@@ -160,32 +160,7 @@ Deployment Layer
 
 ## DSA Track
 
-I have solved **30+ DSA / LeetCode-style problems** and practiced core patterns in both **Python** and **C**.
-
-Covered areas:
-- Arrays
-- Linear search
-- Max and min in arrays
-- Sum of array
-- Even and odd count
-- Second largest and second smallest
-- Remove duplicates
-- Running sum
-- Pivot index
-- Two Sum
-- Palindrome Number
-- Length of Last Word
-- Add Binary
-- Plus One
-- Single Number using XOR
-- Contains Nearby Duplicate
-- Merge Two Sorted Lists
-- Binary Search basics
-- `sqrt(x)`
-- Sliding Window basics
-- Maximum Average Subarray
-- HashMap basics
-- Prefix Sum basics
+I have solved **50+ DSA / LeetCode-style problems** and practiced core patterns in both **Python** and **C**.
 
 ---
 
